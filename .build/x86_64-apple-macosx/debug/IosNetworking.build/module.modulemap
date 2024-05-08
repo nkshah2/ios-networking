@@ -1,0 +1,4 @@
+module IosNetworking {
+    header "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/IosNetworking-Swift.h"
+    requires objc
+}

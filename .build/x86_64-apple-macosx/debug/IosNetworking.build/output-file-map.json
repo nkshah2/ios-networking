@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/master.swiftdeps"
+  },
+  "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/IosNetworking/Sources/Error.swift": {
+    "dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Error.d",
+    "object": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Error.swift.o",
+    "swiftmodule": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Error.swiftdeps"
+  },
+  "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/IosNetworking/Sources/Networking.swift": {
+    "dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Networking.d",
+    "object": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Networking.swift.o",
+    "swiftmodule": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Networking~partial.swiftmodule",
+    "swift-dependencies": "/Users/nemi/Documents/GitHub/nkshah2/ios-networking/.build/x86_64-apple-macosx/debug/IosNetworking.build/Networking.swiftdeps"
+  }
+}
