@@ -55,16 +55,12 @@ public protocol NetworkManager {
 }
 
 public class NetworkManagerImplementation: NetworkManager {
-    #if DEBUG
-    public var baseUrl = "http://192.168.29.87:3001"
-    #else
-    public var baseUrl = "https://api.everylittletwig.com"
-    #endif
-    
     let appVersion: String
+    public let baseUrl: String
     
-    public init(appVersion: String) {
+    public init(appVersion: String, baseUrl: String) {
         self.appVersion = appVersion
+        self.baseUrl = baseUrl
     }
     
     public func doRequest<T>(_ type: T.Type, request: NetworkRequest) async throws -> T where T : Decodable {
